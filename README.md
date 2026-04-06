@@ -4,7 +4,9 @@ This repository contains the code and findings of a project carried out during t
 ## Overview
 We primarily focused on utilizing summary statistics derived from several frequency bands to predict the choices made. Among the different classification algorithms evaluated — Logistic Regression, SVM, Gaussian Naive Bayes, K-Nearest Neighbors, Decision Tree, and Linear Discriminant Analysis — **LDA yielded the best results**.
 
-<img src="https://github.com/orhansoyuhos/NeuralStorm-Workshop-2023/assets/44211738/8b07952d-abe4-4de2-9f44-86a8eb3406cd" width="80%">
+<p align="center">
+  <img src="https://github.com/orhansoyuhos/NeuralStorm-Workshop-2023/assets/44211738/8b07952d-abe4-4de2-9f44-86a8eb3406cd" width="70%">
+</p>
 
 ## Dataset
 The dataset comprises intracranial electroencephalography (iEEG) recordings collected during a sEEG Forced Two-Choice Task. The dataset is available on OpenNeuro: [Dataset Link](https://openneuro.org/datasets/ds004473/versions/1.0.2)
